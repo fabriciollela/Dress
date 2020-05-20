@@ -1,2 +1,2 @@
-# Dresses
+# Dress
 Aplicação para roupas
